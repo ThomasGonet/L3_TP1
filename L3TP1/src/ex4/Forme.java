@@ -1,5 +1,7 @@
 package ex4;
 
+//test
+
 public abstract class Forme{
 
 	protected final String id;
